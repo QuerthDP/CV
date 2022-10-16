@@ -11,7 +11,7 @@ pip install pyqt5
 Logowanie is a project consisting of login.py file, which is a basic login, register and user management system.
 There is a dane_logowania.txt file storing "encrypted" user data.
 
-Tic Tac Toe is a project consisting of tic-tac-toe.py file, which is the said game with "self-learining" bot.
+Tic Tac Toe is a project consisting of tic-tac-toe.py file, which is the said game with "self-learning" bot.
 You may choose game modes by modifying the mode value:
 1  Starting player vs bot
 2  Bot vs latter player
