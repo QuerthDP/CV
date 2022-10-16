@@ -1,5 +1,5 @@
 # CV
-Former projects created while learning C++/Python.
+Former projects created while learning C++/Python. Sadly (mostly) everything is written in Polish.
 
 Poker.py is a program, which deals cards to 6 Texas Hold'em Players and then decides who wins.
 
