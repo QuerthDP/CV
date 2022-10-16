@@ -1,0 +1,9 @@
+Dave wspó³czynnik wygranych rund: 0%
+Jake wspó³czynnik wygranych rund: 0%
+Billy wspó³czynnik wygranych rund: 55%
+Norman wspó³czynnik wygranych rund: 44%
+
+Dave wspó³czynnik wygranych gier: 0%
+Jake wspó³czynnik wygranych gier: 0%
+Billy wspó³czynnik wygranych gier: 100%
+Norman wspó³czynnik wygranych gier: 0%
